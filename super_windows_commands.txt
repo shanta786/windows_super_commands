@@ -1,0 +1,4 @@
+netsh wlan show profile
+netsh wlan show profile "OnePlus Nord CE 2" key=clear --> Can see the passwords of the wifi
+cipher /E --> All files inside are encrypted
+attrib +h +s +r foldername ---> hides the folder
